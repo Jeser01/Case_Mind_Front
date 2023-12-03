@@ -1,0 +1,22 @@
+body {
+    background-image: url('../../public/purpleBackground.png');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    overflow-y: hidden;
+}
+
+.home {
+    margin-top: 20%;
+}
+
+.container {
+    display: inline;
+    position: fixed;
+    align-items: center;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

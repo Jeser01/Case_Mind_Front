@@ -1,0 +1,51 @@
+body {
+    background-color: #050505 !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #E1E1E6;
+}
+
+.login {
+    top: 0;
+    align-items: center;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.inforSide {
+    width: 50rem;
+    text-align: center;
+    margin-right: 2rem; 
+}
+
+.formContainer {
+    background-color: #202024;
+    width: fit-content;
+    padding: 2rem;
+}
+
+.loginTitle,
+.loginSubtitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.loginTitle {
+    font-size: 3rem;
+}
+
+.loginSubtitle {
+    font-size: 1.5rem;
+}
+
+.loginImage {
+    width: 18rem;
+}

@@ -1,0 +1,15 @@
+.notFound {
+    top: 0;
+    align-items: center;
+    text-align: center;
+    color: #E1E1E6;
+}
+
+.container {
+    display: inline;
+    position: fixed;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

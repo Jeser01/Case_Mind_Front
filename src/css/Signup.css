@@ -1,0 +1,48 @@
+.signup {
+    top: 0;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    background-color: #050505 !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #E1E1E6;
+}
+
+.container {
+    display: flex;
+    position: fixed;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.formLoginContainer {
+    background-color: #202024;
+    width: fit-content;
+    padding: 2rem;
+}
+
+.inforSide {
+    width: 50rem;
+    text-align: center;
+    margin-right: 15%;
+}
+
+.signupTitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3rem;
+}
+
+.signupSubtitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.5rem;
+}
+
+.signupImage {
+    width: 18rem;
+}
